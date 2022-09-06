@@ -15,7 +15,8 @@ idSeller = []
 def variantSKU_WritterPE(skuVariable):   
     # print(type(skuVariable))
     for newApiRequest in skuVariable:
-        print(newApiRequest)
+        print(newApiRequest) 
+        
         
 
         # {Contenido PE}
